@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+Welcome to HackerBlog. A hackers journal for educational purposes.
